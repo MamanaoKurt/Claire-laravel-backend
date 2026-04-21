@@ -8,7 +8,6 @@ return [
 
     'allowed_origins' => [
         'https://claire-react-frontend.onrender.com',
-        'https://claire-react-frontend.onrender.com/',
         'http://localhost:5173',
         'http://127.0.0.1:5173',
     ],
